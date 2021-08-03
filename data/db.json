@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "Welcome party !",
+      "body": "lorem ipsum...",
+      "author": "youshi",
+      "id": 2
+    },
+    {
+      "title": "web dev top tips",
+      "body": "lorem ipsum...",
+      "author": "morta",
+      "id": 3
+    },
+    {
+      "title": "Just a simple blog",
+      "body": "lorem ipsum...",
+      "author": "trina",
+      "id": 4
+    },
+    {
+      "title": "redirect1",
+      "body": "hello",
+      "author": "mario",
+      "id": 7
+    },
+    {
+      "title": "testredirect ",
+      "body": "bonjour",
+      "author": "mokrane",
+      "id": 8
+    },
+    {
+      "title": "hi",
+      "body": "wdcs",
+      "author": "yoshi",
+      "id": 9
+    }
+  ]
+}
